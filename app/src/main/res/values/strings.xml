@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">11032019Menu</string>
+    <string name="titulo_menuop_Acerca">Acerca de </string>
+    <string name="titulo_menuop_mAlbum">Album </string>
+    <string name="titulo_menuop_mBuscar">Buscar </string>
+    <string opcion="titulo_menuop_mAcercade">Acerca </string>
+</resources>
